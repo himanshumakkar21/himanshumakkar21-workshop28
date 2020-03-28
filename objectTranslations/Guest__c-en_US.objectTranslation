@@ -9,15 +9,15 @@
         <value>Guests</value>
     </caseValues>
     <fields>
-        <label><!-- First Name --></label>
+        <label></label>
         <name>First_Name__c</name>
     </fields>
     <fields>
-        <label><!-- Last Name --></label>
+        <label></label>
         <name>Last_Name__c</name>
     </fields>
     <fields>
-        <label><!-- Member Since --></label>
+        <label></label>
         <name>Member_Since__c</name>
     </fields>
     <startsWith>Consonant</startsWith>
